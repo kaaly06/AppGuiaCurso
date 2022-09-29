@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppGuiaCurso.Android", "AppGuiaCurso\AppGuiaCurso.Android\AppGuiaCurso.Android.csproj", "{2167BA04-87F3-4019-BC37-D5275AD52997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppGuiaCurso", "AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.csproj", "{EC3DEAE9-F51C-43B7-B337-FEEBECB24B23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{A7E2829C-59E7-4F96-8B22-AC7477CBCAB7}"
+	ProjectSection(SolutionItems) = preProject
+		Componentes.cs = Componentes.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Views", "Views", "{D54238AB-ABF2-4669-A589-31D988BD3D63}"
+	ProjectSection(SolutionItems) = preProject
+		Contato.xaml = Contato.xaml
+		PrimeiroAno.xaml = PrimeiroAno.xaml
+		SegundoAno.xaml = SegundoAno.xaml
+		TerceiroAno.xaml = TerceiroAno.xaml
+		VerComponente.xaml = VerComponente.xaml
+		Vestibulinho.xaml = Vestibulinho.xaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2167BA04-87F3-4019-BC37-D5275AD52997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2167BA04-87F3-4019-BC37-D5275AD52997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2167BA04-87F3-4019-BC37-D5275AD52997}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2167BA04-87F3-4019-BC37-D5275AD52997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2167BA04-87F3-4019-BC37-D5275AD52997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2167BA04-87F3-4019-BC37-D5275AD52997}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EC3DEAE9-F51C-43B7-B337-FEEBECB24B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3DEAE9-F51C-43B7-B337-FEEBECB24B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3DEAE9-F51C-43B7-B337-FEEBECB24B23}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EC3DEAE9-F51C-43B7-B337-FEEBECB24B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3DEAE9-F51C-43B7-B337-FEEBECB24B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3DEAE9-F51C-43B7-B337-FEEBECB24B23}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F088709A-3F9F-47F7-B15F-9127F3F5ABF7}
+	EndGlobalSection
+EndGlobal
