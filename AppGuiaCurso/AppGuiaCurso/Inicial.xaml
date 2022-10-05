@@ -1,10 +1,36 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppGuiaCurso.inicial"
+             BackgroundColor="#F3F2F0"
+             Title="App Guia Do Curso DS">
 
-namespace AppGuiaCurso
-{
-    class Inicial
-    {
-    }
-}
+    <ContentPage.Content>
+
+        <ScrollView>
+            <StackLayout Padding="10">
+                <Label Text="Olá!, este é o App para guiá-lo pelo Curso Técnico em Desenvolvimento de Sistemas"
+                       FontSize="Medium"
+                       Style="{StaticResource textoCentralizado}" />
+
+                <Label Text="O curso tem três módulos e dura um ano e meio. Pensamos em desenvolver este App para explicar o conteúdo"
+                       FontSize="Medium"
+                       Style="{StaticResource textoCentralizado}" /> <!--arrumar o texto-->
+
+                <!--mudar cor-->
+                <Label Text="Em breve este App estará disponível na Play Store para dowload."
+                       TextColor="#AB0209" 
+                       Style="{StaticResource textoCentralizado}" />
+
+                <!-- Image Source="foto_segundo_modulo_2_sem_2019" -->
+
+                <Label Text="Este App foi desenvolvido sob a orientação do Prof. Tiago A. silva e da Profa. Nídia Castelli"
+                  Style="{StaticResource textoCentralizado}"/>
+
+            </StackLayout>
+        </ScrollView>                     
+    </ContentPage.Content>
+</ContentPage>

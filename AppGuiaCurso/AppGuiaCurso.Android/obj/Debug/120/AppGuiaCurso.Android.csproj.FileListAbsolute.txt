@@ -1,0 +1,68 @@
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\build.props
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\adb.props
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\AppGuiaCurso.Android.csproj.AssemblyReference.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\stamp\_BuildLibraryImportsCache.stamp
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\res.flag
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\53\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\54\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\60\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\61\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\62\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\66\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\67\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\68\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\73\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\74\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\78\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\84\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\86\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\87\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\88\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\89\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\90\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\91\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\92\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\94\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\95\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\96\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\97\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\98\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\103\jl\files.cache
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\R.txt
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\R.cs.flag
+D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\AppGuiaCurso.Android.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\build.props
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\adb.props
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\AppGuiaCurso.Android.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\res.flag
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\53\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\54\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\60\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\61\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\62\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\66\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\67\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\68\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\73\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\74\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\78\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\84\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\86\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\87\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\88\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\89\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\90\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\91\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\92\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\94\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\95\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\96\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\97\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\98\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\lp\103\jl\files.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\R.txt
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\R.cs.flag
+C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso.Android\obj\Debug\120\AppGuiaCurso.Android.csproj.CoreCompileInputs.cache
