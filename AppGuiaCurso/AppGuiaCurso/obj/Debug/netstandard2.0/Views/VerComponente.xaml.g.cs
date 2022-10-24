@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppGuiaCurso.Views.VerComponente.xaml", "Views/VerComponente.xaml", typeof(global::AppGuiaCurso.Views.VerComponenteAno))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppGuiaCurso.Views.VerComponente.xaml", "Views/VerComponente.xaml", typeof(global::AppGuiaCurso.Views.VerComponente))]
 
 namespace AppGuiaCurso.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\VerComponente.xaml")]
-    public partial class VerComponenteAno : global::Xamarin.Forms.ContentPage {
+    public partial class VerComponente : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(VerComponenteAno));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(VerComponente));
         }
     }
 }

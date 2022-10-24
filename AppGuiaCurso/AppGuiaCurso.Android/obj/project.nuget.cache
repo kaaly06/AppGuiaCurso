@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Crxo9HFJPsBwyKVi8AcWXOv+l+PI1EFz/YsijWnh+qc+86CLfAbcJP67kie2OZKk4jLa3qopG9L0QGHsTzYKow==",
+  "dgSpecHash": "13PrxRxQ8Naq4KNWBQY1z+LQo/SScZWNtmac3T3MuNFtRvi5vo0suVcPY2Zx6Oxm8sbyuqoeXrGeKkQ5VRGcYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.Android\\AppGuiaCurso.Android.csproj",
+  "projectFilePath": "D:\\Kaly 2ds\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.Android\\AppGuiaCurso.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

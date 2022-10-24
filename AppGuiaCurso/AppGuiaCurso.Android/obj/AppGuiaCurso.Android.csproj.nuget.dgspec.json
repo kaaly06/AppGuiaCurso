@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.Android\\AppGuiaCurso.Android.csproj": {}
+    "D:\\Kaly 2ds\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.Android\\AppGuiaCurso.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.Android\\AppGuiaCurso.Android.csproj": {
+    "D:\\Kaly 2ds\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.Android\\AppGuiaCurso.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.Android\\AppGuiaCurso.Android.csproj",
+        "projectUniqueName": "D:\\Kaly 2ds\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.Android\\AppGuiaCurso.Android.csproj",
         "projectName": "AppGuiaCurso.Android",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.Android\\AppGuiaCurso.Android.csproj",
+        "projectPath": "D:\\Kaly 2ds\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.Android\\AppGuiaCurso.Android.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.Android\\obj\\",
+        "outputPath": "D:\\Kaly 2ds\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.csproj"
+              "D:\\Kaly 2ds\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.csproj": {
+                "projectPath": "D:\\Kaly 2ds\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.csproj": {
+    "D:\\Kaly 2ds\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.csproj",
+        "projectUniqueName": "D:\\Kaly 2ds\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.csproj",
         "projectName": "AppGuiaCurso",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.csproj",
+        "projectPath": "D:\\Kaly 2ds\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso\\obj\\",
+        "outputPath": "D:\\Kaly 2ds\\AppGuiaCurso\\AppGuiaCurso\\AppGuiaCurso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,6 +76,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -115,11 +116,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,33 +9,32 @@
     <MasterDetailPage.Master>
         <ContentPage Title="Menu">
 
-            <Grid BackgroundColor="#3E474C">
+            <Grid BackgroundColor="White">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="160"/>
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
 
                 <StackLayout Grid.Row="0" 
-                             BackgroundColor="#3E474C"
+                             BackgroundColor="Gray"
                              Padding="10"
                              Margin="10"
                              HorizontalOptions="FillAndExpand">
-                    <!--colocar logo-->
-                    <image Source="......." Aspect="AspectFit"/>
+                    <Image Source="LogoEtec.png" Aspect="AspectFit"/>
                 </StackLayout>
 
                 <StackLayout Grid.Row="1" Spacing="10" Margin="10" Padding="10" BackgroundColor="#F3F2F0">
-                    <Button Text="Inicial" Clicked="Open_Inicial" Style="{StaticResource botaoVermelho}" />
+                    <Button Text="Inicial" Clicked="Open_Inical" Style="{StaticResource botaovermelho}" />
                     
-                    <Button Text="Primeiro Ano" Clicked="Open_Primeiro" Style="{StaticResource botaoBranco}" />
+                    <Button Text="Primeiro Ano" Clicked="Open_Primeiro" Style="{StaticResource botaoCinza}" />
                     
-                    <Button Text="Segundo Ano" Clicked="Open_Segundo" Style="{StaticResource botaoBranco}" />
+                    <Button Text="Segundo Ano" Clicked="Open_Segundo" Style="{StaticResource botaoCinza}" />
                     
-                    <Button Text="Terceiro Ano" Clicked="Open_Terceiro" Style="{StaticResource botaoBranco}" />
+                    <Button Text="Terceiro Ano" Clicked="Open_Terceiro" Style="{StaticResource botaoCinza}" />
                     
-                    <Button Text="Vestibulinho Etec" Clicked="Open_Vestibular" Style="{StaticResource botaoVermelho}" />
+                    <Button Text="Vestibulinho Etec" Clicked="Open_Vestibular"  Style="{StaticResource botaovermelho}" />
 
-                    <Button Text="Contato" Clicked="Open_Contato" Style="{StaticResource botaoVermelho}" />
+                    <Button Text="Contato" Clicked="Open_Contato" Style="{StaticResource botaovermelho}" />
                 </StackLayout>
 
             </Grid>

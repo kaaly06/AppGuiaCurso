@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppGuiaCurso.inicial.xaml", "inicial.xaml", typeof(global::AppGuiaCurso.inicial))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppGuiaCurso.Inicial.xaml", "Inicial.xaml", typeof(global::AppGuiaCurso.Inicial))]
 
 namespace AppGuiaCurso {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("inicial.xaml")]
-    public partial class inicial : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Inicial.xaml")]
+    public partial class Inicial : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(inicial));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Inicial));
         }
     }
 }

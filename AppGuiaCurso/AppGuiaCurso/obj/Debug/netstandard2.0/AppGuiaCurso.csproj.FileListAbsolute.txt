@@ -1,10 +1,23 @@
-D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.csproj.AssemblyReference.cache
-D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.GeneratedMSBuildEditorConfig.editorconfig
-D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\App.xaml.g.cs
-D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\inicial.xaml.g.cs
-D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.AssemblyInfoInputs.cache
-D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.AssemblyInfo.cs
-D:\Kaly 2° ds\Mobile\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\AppGuiaCurso\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\Inicial.xaml.g.cs
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\Views\Contato.xaml.g.cs
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\Views\PrimeiroAno.xaml.g.cs
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\Views\SegundoAno.xaml.g.cs
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\Views\TerceiroAno.xaml.g.cs
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\Views\VerComponente.xaml.g.cs
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\Views\Vestibulinho.xaml.g.cs
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.dll
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\refint\AppGuiaCurso.dll
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\AppGuiaCurso.pdb
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\bin\Debug\netstandard2.0\AppGuiaCurso.deps.json
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\bin\Debug\netstandard2.0\AppGuiaCurso.dll
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\bin\Debug\netstandard2.0\AppGuiaCurso.pdb
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\obj\Debug\netstandard2.0\ref\AppGuiaCurso.dll
+C:\Users\Usuario\Desktop\AppGuiaCurso-master\AppGuiaCurso\AppGuiaCurso\bin\Debug\netstandard2.0\Image\LogoEtec.png

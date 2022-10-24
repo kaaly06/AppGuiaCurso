@@ -4,31 +4,30 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="AppGuiaCurso.inicial"
-             BackgroundColor="#F3F2F0"
+             x:Class="AppGuiaCurso.Inicial"
+             BackgroundColor="White"
              Title="App Guia Do Curso DS">
-
     <ContentPage.Content>
 
         <ScrollView>
             <StackLayout Padding="10">
                 <Label Text="Olá!, este é o App para guiá-lo pelo Curso Técnico em Desenvolvimento de Sistemas"
                        FontSize="Medium"
-                       Style="{StaticResource textoCentralizado}" />
+                       HorizontalTextAlignment="Center" />
 
                 <Label Text="O curso tem três módulos e dura um ano e meio. Pensamos em desenvolver este App para explicar o conteúdo"
                        FontSize="Medium"
-                       Style="{StaticResource textoCentralizado}" /> <!--arrumar o texto-->
+                       HorizontalTextAlignment="Center" /> <!--arrumar o texto-->
 
                 <!--mudar cor-->
                 <Label Text="Em breve este App estará disponível na Play Store para dowload."
                        TextColor="#AB0209" 
-                       Style="{StaticResource textoCentralizado}" />
+                       HorizontalTextAlignment="Center" />
 
-                <!-- Image Source="foto_segundo_modulo_2_sem_2019" -->
+                <Image Source="FotoSegundoAno2022"/>
 
                 <Label Text="Este App foi desenvolvido sob a orientação do Prof. Tiago A. silva e da Profa. Nídia Castelli"
-                  Style="{StaticResource textoCentralizado}"/>
+                       HorizontalTextAlignment="Center"/>
 
             </StackLayout>
         </ScrollView>                     
